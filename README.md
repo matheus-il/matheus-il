@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**matheus-il/matheus-il** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer and an eternal student. Solving real problems using the best of frontend technology.  
+Currently working with web development on projects using different technologies.
 
-Here are some ideas to get you started:
+#### ⚡ Current technologies
+- React  
+- TypeScript  
+- JQuery  
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Technologies that i've worked on
+- Angular  
+- .NET  
+- MySQL  
+- MVC  
+- Razor
+
+💬 Find me here:  
+
+[![Linkedin Badge](https://img.shields.io/badge/-matheus--il-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-il//)](https://www.linkedin.com/in/matheus-il/)
+[![Outlook Badge](https://img.shields.io/badge/-matheus.il@live.com-394454?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus.il@live.com)](mailto:matheus.il@live.com)
